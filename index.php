@@ -1,15 +1,8 @@
-<!DOCTYPE html>
 <html>
 <head>
+<title>Aula Prog.WEB</title>
+</head>
 <body>
-
-<?php
-echo"Olá, Bom Dia<br/><br/>";
-
-echo"Aula Prog. Web<br/><br/>";
-
-echo"Evila Lima Da Silva<br/> Tainara Gomes Dos Santos";
-
-?>
+<h2> Utilizando o GITHUB</h2>
 </body>
 </html>
